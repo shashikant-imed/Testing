@@ -10,6 +10,7 @@ public class helloWorld {
 		System.out.println("Hello Shashi Kant");
 		System.out.println("Hello Shashi Kant Kumar");
 		System.out.println("Hello IMED MCA");
+		System.out.println("Hello IMED MBA");
 	}
 
 }
